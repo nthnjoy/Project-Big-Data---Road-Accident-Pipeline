@@ -22,7 +22,7 @@ Repository ini berisi implementasi lengkap pipeline big data untuk menganalisis 
 | Leoni Sibuea | 11423055 |
 | Hizkia Sipayung | 11423002 |
 
-> *Lengkapi NIM dan nama anggota sesuai data kelompok.*
+
 
 ---
 
