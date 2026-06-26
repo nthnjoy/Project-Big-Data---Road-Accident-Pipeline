@@ -79,7 +79,7 @@ Raw Data (Google Drive)
 
 ---
 
-## 📊 Ringkasan Temuan
+##  Ringkasan Temuan
 
 - **Total casualties:** 417.883
 - **Total vehicles involved:** 563.302
