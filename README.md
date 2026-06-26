@@ -1,33 +1,23 @@
 [README.md](https://github.com/user-attachments/files/29371864/README.md)
-# 🚦 Road Accident Big Data Pipeline
+# Road Accident Big Data Pipeline
 
 > **PA3 Kelompok 10** — Institut Teknologi Del  
 > Mata Kuliah: Big Data
 
 ---
 
-## 📌 Tentang Proyek
+##  Tentang Proyek
 
 Repository ini berisi implementasi lengkap pipeline big data untuk menganalisis data kecelakaan lalu lintas di UK (United Kingdom). Pipeline mencakup seluruh alur dari ingest data mentah hingga visualisasi dashboard interaktif, dengan memanfaatkan teknologi big data seperti PySpark dan penyimpanan NoSQL MongoDB Atlas.
 
 ---
 
-## 👥 Anggota Kelompok
-
-| Nama | NIM |
-|------|-----|
-| Hizkia Sipayung | 11423002 |
-| Whisnu Saragih | 11423045 |
-| Nathanael Tampubolon| 11423044 |
-| Leoni Sibuea | 11423055 |
-| Imel Sinaga | 11423057 |
-
 
 
 
 ---
 
-## 📂 Struktur Repository
+##  Struktur Repository
 
 ```
 Project-Big-Data---Road-Accident-Pipeline/
@@ -43,7 +33,7 @@ Project-Big-Data---Road-Accident-Pipeline/
 
 ---
 
-## 🗄️ Dataset
+##  Dataset
 
 - **Sumber:** UK Road Accident Data
 - **Ukuran:** 307.973 baris × 21 kolom
@@ -52,7 +42,7 @@ Project-Big-Data---Road-Accident-Pipeline/
 
 ---
 
-## 🔄 Alur Pipeline
+##  Alur Pipeline
 
 ```
 Raw Data (Google Drive)
@@ -74,7 +64,7 @@ Raw Data (Google Drive)
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+##  Teknologi yang Digunakan
 
 | Teknologi | Kegunaan |
 |-----------|----------|
@@ -99,7 +89,7 @@ Raw Data (Google Drive)
 
 ---
 
-## 🚀 Cara Menjalankan
+##  Cara Menjalankan
 
 ### 1. Clone repository
 ```bash
@@ -126,7 +116,7 @@ git clone https://github.com/nthnjoy/Project-Big-Data---Road-Accident-Pipeline.g
 
 ---
 
-## 📁 Penyimpanan Data
+##  Penyimpanan Data
 
 | Tahap | Lokasi |
 |-------|--------|
@@ -138,11 +128,11 @@ git clone https://github.com/nthnjoy/Project-Big-Data---Road-Accident-Pipeline.g
 
 ---
 
-## 📄 Dokumen Pendukung
+##  Dokumen Pendukung
 
-- 📘 [Jurnal BigData Kelompok 10](./Jurnal_BigData_Kelompok10.pdf)
-- 📋 [Laporan BigData Kelompok 10](./Laporan_BigData_Kelompok10.pdf)
-- 🖥️ [Slide Presentasi](./PPT_BigData_Kelompok10.pdf)
+-  [Jurnal BigData Kelompok 10](./Jurnal_BigData_Kelompok10.pdf)
+-  [Laporan BigData Kelompok 10](./Laporan_BigData_Kelompok10.pdf)
+-  [Slide Presentasi](./PPT_BigData_Kelompok10.pdf)
 
 ---
 
