@@ -136,7 +136,7 @@ git clone https://github.com/nthnjoy/Project-Big-Data---Road-Accident-Pipeline.g
 
 ---
 
-## 📝 Lisensi
+##  Lisensi
 
 Proyek ini dibuat untuk keperluan akademik di **Institut Teknologi Del**.  
 © 2024 PA3 Kelompok 10 — All rights reserved.
