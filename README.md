@@ -16,10 +16,11 @@ Repository ini berisi implementasi lengkap pipeline big data untuk menganalisis 
 
 | Nama | NIM |
 |------|-----|
-| WhisnuAbraham | - |
-| Nathanael | - |
-| Imelsinagaa | - |
-| *(anggota lain)* | - |
+| Whisnu Saragih | 11423045 |
+| Nathanael Tampubolon| 11423044 |
+| Imel Sinaga | 11423057 |
+| Leoni Sibuea | 11423055 |
+| Hizkia Sipayung | 11423002 |
 
 > *Lengkapi NIM dan nama anggota sesuai data kelompok.*
 
